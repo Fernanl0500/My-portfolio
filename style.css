@@ -1,0 +1,153 @@
+body{
+
+
+font-family: Helvetica;
+font-size: 18px;
+background-color: ;
+
+
+
+}
+
+
+.example{
+
+
+height: 20px;
+
+}
+
+
+
+/*this is the style of the header component*/
+.header{
+height: 100px;
+border: 1px solid black;
+width: 100%;
+text-align: center;
+padding: 20%
+font-size:30px;
+font-family:  Helvetica;
+
+
+}
+
+
+
+
+nav{
+
+background-color: #FFFFFF;
+width: 100%;
+margin-left: 40%
+
+
+
+
+
+
+
+
+}
+
+
+
+
+h1{
+
+font-family: Helvetica;
+font-size: 18px;
+margin-left: 40%
+border: 1px solid black;
+
+
+
+
+
+}
+
+
+h3{
+
+
+font-family: Helvetica;
+font-size: 18px;
+width: 50%;
+margin-left: 20%
+
+
+
+
+}
+
+
+
+p{
+
+
+
+font-family: Helvetica;
+font-size: 18px;
+
+
+
+}
+
+
+section{
+
+
+font-family: Helvetica;
+font-size: 18px;
+border: 1px solid black;
+width: 50%;
+margin-left: 0%
+
+
+
+
+}
+article{
+
+
+
+font-family: Helvetica;
+font-size: 18px;
+
+
+
+
+
+
+
+}
+
+.main-col{
+
+
+float: left;
+width: 70%
+
+}
+
+
+.sidebar-col{
+
+ float: right;
+  width: 30%
+
+
+}
+
+
+
+
+
+footer{
+
+font-family: Helvetica;
+font-size: 18px;
+
+
+
+}
